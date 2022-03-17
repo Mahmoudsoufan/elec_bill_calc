@@ -7,7 +7,7 @@ class AppTheme {
     color: Colors.black,
     fontSize: 38,
     fontWeight: FontWeight.w600,
-    letterSpacing: 1.2,
+    letterSpacing: 1.1,
   );
 
   static const TextStyle display2 = TextStyle(
